@@ -1,0 +1,8 @@
+.header__img{
+    background-image: url("../img/sh2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    position: relative;
+    height: 300px;
+}
